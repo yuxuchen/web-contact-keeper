@@ -1,11 +1,11 @@
 {
-  "name": "Contact-Keeper",
+  "name": "contact-keeper",
   "version": "1.0.0",
   "description": "Contact manager app",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "server":"nodemon server.js"
+    "server": "nodemon server.js"
   },
   "keywords": [],
   "author": "",
